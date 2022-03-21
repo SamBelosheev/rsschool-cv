@@ -1,5 +1,6 @@
 
 # Semyon Belosheev #
+
 ## Junior IT specialist ##
 
 # 14.07.1987 #
@@ -15,6 +16,8 @@
  >simjinbeloshe
 5. Discord
  >SamBelosheev(@SamBelosheev)
+
+
 ### Personal data ###
 Extremely motivated to
 constantly develop personal skills
@@ -29,11 +32,15 @@ implement them
  >2012-2018 Engineer
 2. Bntu
  >2018-2020  Magistr techiques and technologies
+
+
 ### Work experience ###
 1. Minsk tracktor works, April 2007 - october 2021
  >Master of lot
  >>Head master of lot
 ### Skils ###
+
+
 1. High communication and networking skills
 2. Successful team and individual work
 3. Ability to work under stress and multi-task
