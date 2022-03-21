@@ -1,1 +1,2 @@
-https://github.com/SamBelosheev/rsschool-cv/blob/gh-pages/cv.md
+
+https://SamBelosheev.github.io/rsschool-cv/cv
