@@ -8,6 +8,7 @@
 ### Contacts ###
 1. Location
  >Minsk Rafieva street 44-80
+ >Minsk Brily 3
 2. Email
  >aspirantbelosheev@tut.by
 3. Phone
